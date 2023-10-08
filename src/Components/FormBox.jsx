@@ -15,15 +15,13 @@ const FormBox = () => {
     e.preventDefault(); // Prevent the default form submission behavior
     console.log(formData); // Log the form data to the console
 
-    setFormData(
-      {
-        fullName: '',
-    email: '',
-    subject: '',
-    message: '',
-      }
-    )
-
+    // Clear form data after submission
+    setFormData({
+      fullName: '',
+      email: '',
+      subject: '',
+      message: '',
+    });
   };
 
   // Function to update form data when input fields change
