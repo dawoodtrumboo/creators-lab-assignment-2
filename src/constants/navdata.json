@@ -1,0 +1,85 @@
+
+{
+    "categories": [
+      {
+        "name": "Services",
+        "items": [
+          {
+            "title": "Web Application Penetration Testing",
+            "image": "https://i.imgur.com/v328b7Q.png",
+            "description": "Track the latest vulnerabilities and cyber threats to your Web Applications"
+          },
+          {
+            "title": "Mobile Application Penetration Testing",
+            "image": "https://i.imgur.com/Wy9CKTs.png",
+            "description": "All-in-one network security for your mobile applications"
+          },
+          {
+            "title": "Network Penetration Testing",
+            "image": "https://i.imgur.com/I0ykXJI.png",
+            "description": "Automated, Secure, and Comprehensive Network Penetration Testing"
+          },
+          {
+            "title": "Cloud Security",
+            "image": "https://i.imgur.com/jPyKHC0.png",
+            "description": "The dynamic approach to comply with your corporate goals."
+          },
+          {
+            "title": "Compliance ",
+            "image": "https://i.imgur.com/fopHcAd.png",
+            "description": "Uncomplicated risk management for your privacy and data security"
+          },
+          {
+            "title": "SOC",
+            "image": "https://i.imgur.com/dPwsAXO.png",
+            "description": "The highest level of information security to handle your sensitive data"
+          }
+        ]
+      },
+      {
+        "name": "Initiatives",
+        "items": [
+          {
+            "title": "Primepilot",
+            "description": "Empowering the Next Generation of Cyber Heroes"
+          },
+          {
+            "title": "DigiSafe Nations",
+            "description": "Committed to the safety of our community."
+          }
+          
+        ]
+      },
+      {
+        "name": "About Us",
+        "items": [
+            {
+                "title": "Our Story",
+                "description": "From our humble beginnings to a million-dollar company"
+              },
+              {
+                "title": "Our Journey ",
+                "description": "Challenging the world’s most sophisticated security issues"
+              },
+              {
+                "title": "Leadership Team",
+                "description": "Meet our Leadership Team"
+              },
+              {
+                "title": "Advisors",
+                "description": "Enabling Success Together"
+              },
+              {
+                "title": "Careers",
+                "description": "Work with the best"
+              },
+              {
+                "title": "Awards",
+                "description": "Celebrating success and excellencer"
+              }
+          
+        ]
+      }
+    ]
+  }
+  
